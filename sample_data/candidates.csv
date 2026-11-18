@@ -1,0 +1,8 @@
+reference,first_name,last_name,address_line,city,role,interview_date,interview_time,location,interviewer,letter_date
+INT-2601,aoife,byrne,14 Sample Road,Dublin 8,Office Administrator,2026-11-24,10:00,Room 2.1 (second floor),Grace Nolan,2026-11-18
+INT-2602,CONOR,O'NEILL,3 Example Terrace,Dublin 12,Office Administrator,24/11/2026,11:30,Room 2.1 (second floor),Grace Nolan,2026-11-18
+INT-2603,  Niamh ,Kelly,Apartment 5 Test House,Dublin 4,Accounts Assistant,2026-11-25,09:30,Room 1.4 (first floor),James Walsh,2026-11-18
+INT-2604,Piotr,Nowak,,Dublin 15,Accounts Assistant,2026-11-25,14:00,Room 1.4 (first floor),James Walsh,2026-11-18
+INT-2605,Fatima,Khan,22 Demo Avenue,Dublin 9,HR Administrator,2026-11-26,10:30,Room 3.2 (third floor),Anna Ryan,2026-11-18
+INT-2606,Liam,Doyle,8 Placeholder Close,Dublin 6,HR Administrator,,15:00,Room 3.2 (third floor),Anna Ryan,2026-11-18
+INT-2607,Maria,Silva,41 Mock Street,Dublin 1,Receptionist,2026-11-27,12:00,Reception meeting room,Grace Nolan,2026-11-18
